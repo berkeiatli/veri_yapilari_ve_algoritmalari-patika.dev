@@ -23,4 +23,4 @@
  <b>4.adım :</b> 2,3,4,5 sıralı bir halde. 6 için aynı yöntem uygulanırsa [2,3,4,5,6,9,8,15,7] şeklinde olur. <br>
  .... 
  
-<a href="patika.dev">patika.dev</a>
+<a href="www.patika.dev">patika.dev</a>
