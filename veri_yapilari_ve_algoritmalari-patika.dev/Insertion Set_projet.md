@@ -1,5 +1,5 @@
 
-<h1>[22,27,16,2,18,6] dizisi için -> Insertion Sort aşamaları:<hr></h1>
+<h1>[22,27,16,2,18,6] dizisi için -> Selection Sort aşamaları:<hr></h1>
 
 <b>1.aşama :</b>dizinin elemanlarından en küçük olan en başa gelir ve en baştaki ile yer değiştirir. Yani [2,27,16,22,18,6] olur.<br>
 <b>2.aşama :</b> 2'den sonra en küçük eleman 6 olduğu için 6 yı 2'den hemen sonra en başa yazıyoruz. Yani [2,6,16,22,18,27]<br>
