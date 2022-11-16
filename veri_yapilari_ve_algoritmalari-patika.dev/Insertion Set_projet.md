@@ -1,7 +1,7 @@
 
 [22,27,16,2,18,6] dizisi için -> Insertion Sort aşamaları:
 
-1.aşama : dizinin elemanlarından en küçük olan en başa gelir ve en baştaki ile yer değiştirir. Yani [2,27,16,22,18,6] olur.
+1.aşama : dizinin elemanlarından en küçük olan en başa gelir ve en baştaki ile yer değiştirir. Yani [2,27,16,22,18,6] olur.<hr>
 2.aşama : 2'den sonra en küçük eleman 6 olduğu için 6 yı 2'den hemen sonra en başa yazıyoruz. Yani [2,6,16,22,18,27]
 3.aşama : 6'dan sonra en küçük eleman 16 dır ve sıralanmış bir haldedir. O halde 16'dan sonraki en küçük rakam olan 18 i sıralamak için 16'dan sonra en başa yazalım. Yani [2,6,16,18,22,27] olur ve dizi sıralanmıştır. 
 
