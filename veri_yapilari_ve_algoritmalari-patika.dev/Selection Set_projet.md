@@ -8,7 +8,7 @@
 
 <h1>Big-O gösterimi :<br><br></h1>
 
- [22,27,16,2,18,6] dizisi n elemanlı ve her adımda bir eksiği kadar işlem yapıyoruz. O halde n*(n-1)*(n-2)*....1= n*(n+1)/2 olduğundan ve dominant olan n^2 olduğundan O(n^2) olur. <br>
+ [22,27,16,2,18,6] dizisi n elemanlı ve her adımda bir eksiği kadar işlem yapıyoruz. O halde n*(n-1)*(n-2)*....1= n*(n+1)/2 olduğundan ve dominant olan n² olduğundan O(n²) olur. <br>
 <br>
 
  18 sayısı sıralanmış dizide orta sıralarda yer aldığı için "Average Case" kapsamına girer.<br>
